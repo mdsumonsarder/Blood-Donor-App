@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "986465781558",
+    "firebase_url": "https://onuchokri.firebaseio.com",
+    "project_id": "onuchokri",
+    "storage_bucket": "onuchokri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986465781558:android:0a4df1b58acafe73",
+        "android_client_info": {
+          "package_name": "sumon.codexive.Onuchokri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986465781558-350thlk0j11ldkuv1ctch8243joksmj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NuxB8N9SqH-5jCfzCi_tABkiLwly-j8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
